@@ -40,7 +40,7 @@ def get_pressure(date):
 def main():
     while True:
         print("\nWeather API\nOptions:")
-        print("1. Get weather")
+        print("1. Get Weather(Temperature)")
         print("2. Get Wind Speed")
         print("3. Get Pressure")
         print("0. Exit")
